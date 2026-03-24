@@ -18,7 +18,11 @@ export const navigation: NavSection[] = [
   {
     title: "Components",
     items: [
-      // Components will be added here by Prompt 2
+      { name: "Button", href: "/styleguide/components/button" },
+      { name: "Card", href: "/styleguide/components/card" },
+      { name: "Badge", href: "/styleguide/components/badge" },
+      { name: "Alert", href: "/styleguide/components/alert" },
+      { name: "Form", href: "/styleguide/components/form" },
     ]
   }
 ]
